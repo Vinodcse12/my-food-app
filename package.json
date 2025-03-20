@@ -1,0 +1,31 @@
+{
+  "name": "react-first-app",
+  "version": "1.0.0",
+  "description": "this is first react app by vinod sharma",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Vinodcse12/react-learning.git"
+  },
+  "keywords": [
+    "react"
+  ],
+  "author": "Vinod Sharma",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Vinodcse12/react-learning/issues"
+  },
+  "homepage": "https://github.com/Vinodcse12/react-learning#readme",
+  "devDependencies": {
+    "parcel": "^2.13.3",
+    "process": "^0.11.10"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
