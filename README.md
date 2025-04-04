@@ -16,3 +16,12 @@
 - Diagonstic
 - Error Handling 
 - Tree Shaking - remove unused code  - when it is comprasing
+
+
+# Redux
+- Install @reduxjs/toolkit and react-redux
+- Build our store
+- Connect our store to our app
+- Create card slice to add item in slice
+- Dispatch an action 
+- Read data using selector

@@ -21,12 +21,16 @@
   },
   "homepage": "https://github.com/Vinodcse12/react-learning#readme",
   "devDependencies": {
+    "@tailwindcss/postcss": "^4.0.17",
     "parcel": "^2.13.3",
-    "process": "^0.11.10"
+    "process": "^0.11.10",
+    "tailwindcss": "^3.4.17"
   },
   "dependencies": {
+    "@reduxjs/toolkit": "^1.9.5",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
+    "react-redux": "^8.1.1",
     "react-router-dom": "^6.17.0"
   }
 }
